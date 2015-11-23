@@ -26,7 +26,7 @@ typedef enum : NSUInteger {
     // Do any additional setup after loading the view, typically from a nib.
     //--- Initialise array.
     _arrTest=[[NSMutableArray alloc] initWithObjects:@"SinglePicker_Example",@"MultiComponent_Example",@"Customized_UI",nil];
-    
+    //--
 }
 
 - (void)didReceiveMemoryWarning {
