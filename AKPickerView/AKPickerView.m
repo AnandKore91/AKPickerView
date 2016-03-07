@@ -87,7 +87,7 @@
     UIFont *font=[UIFont fontWithName:@"Helvetica-Light" size:15];
     UIFont *fontBold=[UIFont fontWithName:@"Helvetica-BOLD" size:17];
     self.frame=CGRectMake(0, _screenHeight, _screenWidth,10);
-    self.backgroundColor=[UIColor darkGrayColor];
+    self.backgroundColor=[UIColor colorWithRed:(43/255.0) green:(172/255.0) blue:(139/255.0) alpha:1];
     
     [_btnDone removeFromSuperview];
     _btnDone=[[UIButton alloc]initWithFrame:CGRectMake(self.frame.size.width-75,5,70, 30)];
@@ -115,12 +115,12 @@
     
     [_viewForSeperator1 removeFromSuperview];
     _viewForSeperator1=[[UIView alloc]initWithFrame:CGRectMake(0,0,_screenWidth,1)];
-    _viewForSeperator1.backgroundColor=[UIColor blackColor];
+    _viewForSeperator1.backgroundColor=[UIColor whiteColor];
     [self addSubview:_viewForSeperator1];
     
     [_viewForSeperator2 removeFromSuperview];
     _viewForSeperator2=[[UIView alloc]initWithFrame:CGRectMake(0,_btnClose.frame.origin.y+_btnClose.frame.size.height+5,_screenWidth,1)];
-    _viewForSeperator2.backgroundColor=[UIColor blackColor];
+    _viewForSeperator2.backgroundColor=[UIColor whiteColor];
     [self addSubview:_viewForSeperator2];
     
     [_akPicker removeFromSuperview];
