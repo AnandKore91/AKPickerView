@@ -76,4 +76,15 @@ AKPickerView provides a simple way to use UIPickerView with multiple features.
     }
 
 
-    
+
+##Screenshots##
+![Alt text](https://raw.githubusercontent.com/AnandKore91/AKPickerView/master/Screenshots/Simulator%20Screen%20Shot%2007-Mar-2016%2C%2010.17.11%20PM.png?raw=true "Optional Title")
+
+![Alt text](https://raw.githubusercontent.com/AnandKore91/AKPickerView/master/Screenshots/Simulator%20Screen%20Shot%2007-Mar-2016%2C%2010.17.16%20PM.png?raw=true "Optional Title")
+
+![Alt text](https://raw.githubusercontent.com/AnandKore91/AKPickerView/master/Screenshots/Simulator%20Screen%20Shot%2007-Mar-2016%2C%2010.17.18%20PM.png?raw=true "Optional Title")
+
+![Alt text](https://raw.githubusercontent.com/AnandKore91/AKPickerView/master/Screenshots/Simulator%20Screen%20Shot%2007-Mar-2016%2C%2010.17.27%20PM.png?raw=true "Optional Title")
+
+![Alt text](https://raw.githubusercontent.com/AnandKore91/AKPickerView/master/Screenshots/Simulator%20Screen%20Shot%2007-Mar-2016%2C%2010.17.30%20PM.png?raw=true "Optional Title")
+
